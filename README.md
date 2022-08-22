@@ -1,6 +1,15 @@
 # mock-middleware-plugin
-> For some reason, I can't support the source code. This repository only for answer issue.  
-
+> For some reason, we can't support the source code. This repository only for answer issue.  
+## Example
+We add an example using mock-middlerware-plugin in the repository.  
+Clone it and have a try!  
+```
+git clone https://github.com/VarianZero/mock-middleware-plugin.git
+cd example
+npm install
+npm start
+```
+## Feature
 Middleware for mocking data, based on webpack-dev-server.   
 - Both support React and Vue.  
 - Support hot reloading mock data.
